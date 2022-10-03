@@ -1,0 +1,7 @@
+data*/
+tmp*/
+saved_model/
+results/
+_logs/
+logs/
+*.pyc

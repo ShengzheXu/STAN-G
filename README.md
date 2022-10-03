@@ -62,3 +62,21 @@ transed = ntt.transform(df)
 
 rev = ntt.rev_transform(transed)
 ```
+
+## Overview
+
+<center>
+<img src="./documents/overview.png">
+</center>
+
+## Citation
+
+```bibtex
+@inproceedings{xu2021stan,
+  title={STAN: Synthetic Network Traffic Generation with Generative Neural Models},
+  author={Xu, Shengzhe and Marwah, Manish and Arlitt, Martin and Ramakrishnan, Naren},
+  booktitle={International Workshop on Deployable Machine Learning for Security Defense},
+  pages={3--29},
+  year={2021},
+  organization={Springer}
+}
